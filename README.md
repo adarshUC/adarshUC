@@ -10,6 +10,5 @@
 </head>
 <body>
     <h1>Welcome to My GitHub Page!</h1>
-    <p>Here you can find nothing. Feel free to go away!</p>
 </body>
 </html>
