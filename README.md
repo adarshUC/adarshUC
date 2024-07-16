@@ -11,6 +11,7 @@
             justify-content: center;
             height: 100vh;
             margin: 0;
+            text-align: center;
         }
         h1 {
             margin-bottom: 20px;
