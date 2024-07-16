@@ -1,7 +1,8 @@
-# Welcome to My GitHub Page!
-
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=noobaadarsh&label=Profile%20Views&color=12&icon=2&pretty=false" />
+  <b><font size="6">Welcome to My GitHub Page!</font></b>
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://visitcount.itsvg.in/api?id=noobaadarsh&label=Visitors&color=12&icon=2&pretty=true" />
   </a>
 </p>
