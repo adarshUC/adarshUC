@@ -3,6 +3,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/adarshUC/adarshUC/blob/main/cycle.gif">
-    <img src="https://visitcount.itsvg.in/api?id=noobaadarsh&label=Visitors&color=12&icon=2&pretty=true" />
+    [![Profile Views](https://komarev.com/ghpvc/?username=adarshuc&style=for-the-badge)](https://github.com/adarshuc)
   </a>
 </p>
