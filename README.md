@@ -1,3 +1,4 @@
+<p align="center">
   <b><font size="6">Welcome to My GitHub Page!</font></b>
 </p>
 <p align="center">
